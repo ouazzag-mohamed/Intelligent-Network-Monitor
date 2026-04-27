@@ -1,4 +1,3 @@
-"# Intelligent-Network-Monitor" 
 <div align="center">
 
 <pre>
@@ -58,7 +57,7 @@ Intelligent-Network-Monitor/
 ├── EDA_Network_Traffic_1.ipynb        # Data preparation & Encoder training
 ├── Model_Training.ipynb               # Model training & Evaluation
 ├── main.py                            # FastAPI Backend server
-├──  payload.json                       # Sample test data for cURL
+├── payload.json                       # Sample test data for cURL
 └── README.md                          # Project documentation
 ```
 
